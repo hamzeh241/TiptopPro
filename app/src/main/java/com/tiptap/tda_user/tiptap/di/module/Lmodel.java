@@ -6,8 +6,10 @@ import com.tiptap.tda_user.tiptap.main.activity.mvp;
 import com.tiptap.tda_user.tiptap.main.activity.presenter.Presenter;
 import com.tiptap.tda_user.tiptap.main.activity.view.Language;
 
+import dagger.Module;
 import dagger.Provides;
 
+@Module
 public class Lmodel {
 
     private Language activity;

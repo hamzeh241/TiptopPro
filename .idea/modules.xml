@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TipTopAndroid.iml" filepath="$PROJECT_DIR$/TipTopAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiptopPro.iml" filepath="$PROJECT_DIR$/TiptopPro.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/greendaogenerator/greendaogenerator.iml" filepath="$PROJECT_DIR$/greendaogenerator/greendaogenerator.iml" />
     </modules>

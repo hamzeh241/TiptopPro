@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Temp\\tiptop2\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\Hamzeh\\.android\\build-cache\\5bb1ecd137991ab9aad5ef23a338be791dd6c7e6\\output\\res\\values\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Project\\TipTopAndroid\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "C:\\Users\\Hamzeh\\.android\\build-cache\\5bb1ecd137991ab9aad5ef23a338be791dd6c7e6\\output\\res\\values\\values.xml",
+                    "file": "C:\\Users\\11azar\\.android\\build-cache\\48fd06da69d8b5eb71fddd12310ece362005f3e9\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

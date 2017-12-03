@@ -1,36 +1,42 @@
 package com.tiptap.tda_user.tiptap.main.activity.view;
 
+import android.content.Context;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
-import android.view.Menu;
+import android.util.Log;
 
 import com.hitomi.cmlibrary.OnMenuSelectedListener;
 import com.hitomi.cmlibrary.OnMenuStatusChangeListener;
 import com.tiptap.tda_user.tiptap.R;
+import com.tiptap.tda_user.tiptap.common.SampleApp;
+import com.tiptap.tda_user.tiptap.common.StateMaintainer;
+import com.tiptap.tda_user.tiptap.di.module.Lmodel;
+import com.tiptap.tda_user.tiptap.main.activity.mvp;
+import com.tiptap.tda_user.tiptap.main.activity.presenter.Presenter;
 
 public class Language
-        extends AppCompatActivity{
-        //implements mvp.RequiredViewOps {
+        extends AppCompatActivity
+        implements mvp.RequiredViewOps {
 
     private CircleMenu circleMenu;
     String menu;
 
     //@Inject
-    //public mvp.ProvidedPresenterOps mPresenter;
+    public mvp.ProvidedPresenterOps mPresenter;
 
-    //private static final String TAG = Language.class.getSimpleName();
-   // private final StateMaintainer mStateMaintainer = new StateMaintainer( getFragmentManager(), Language.class.getName());
+    private static final String TAG = Language.class.getSimpleName();
+    private final StateMaintainer mStateMaintainer = new StateMaintainer( getFragmentManager(), Language.class.getName());
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.language);
 
-        //setupViews();
-       // setupMVP();
+        setupViews();
+        setupMVP();
 
         circleMenu = (CircleMenu) findViewById(R.id.circle_menu);
 
@@ -85,10 +91,10 @@ public class Language
     @Override
     protected void onDestroy() {
         super.onDestroy();
-       //mPresenter.onDestroy(isChangingConfigurations());
+       mPresenter.onDestroy(isChangingConfigurations());
     }
 
-   /* private void setupViews(){}
+    private void setupViews(){}
 
     private void setupMVP(){
         if ( mStateMaintainer.firstTimeIn() ) {
@@ -119,7 +125,17 @@ public class Language
                 .getMComponent(new Lmodel(this))
                 .inject(this);
     }
-*/
+
+    @Override
+    public Context getAppContext() {
+        return null;
+    }
+
+    @Override
+    public Context getActivityContext() {
+        return null;
+    }
+/*
     @Override
     public boolean onMenuOpened(int featureId, Menu menu) {
         circleMenu.openMenu();
@@ -132,7 +148,7 @@ public class Language
         this.finish();
     }
 
-    /*@Override
+    @Override
     public Context getAppContext() {
         return getApplicationContext();
     }

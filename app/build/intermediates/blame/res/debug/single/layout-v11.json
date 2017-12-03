@@ -1,50 +1,26 @@
 [
     {
-        "merged": "C:\\Temp\\tiptop2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Project\\TipTopAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Temp\\tiptop2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Temp\\tiptop2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Project\\TipTopAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Temp\\tiptop2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "C:\\Project\\TipTopAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v11\\notification_media_action.xml"
-    },
-    {
-        "merged": "C:\\Temp\\tiptop2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v11\\notification_media_action.xml"
-    },
-    {
-        "merged": "C:\\Project\\TipTopAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "C:\\Temp\\tiptop2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "C:\\Project\\TipTopAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "C:\\Project\\TipTopAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout-v11\\notification_media_action.xml"
     }
 ]

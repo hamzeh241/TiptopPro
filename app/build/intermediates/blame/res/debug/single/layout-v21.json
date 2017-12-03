@@ -1,34 +1,18 @@
 [
     {
-        "merged": "C:\\Temp\\tiptop2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Temp\\tiptop2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Project\\TipTopAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Project\\TipTopAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "C:\\Temp\\tiptop2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Project\\TipTopAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Project\\TipTopAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Temp\\tiptop2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Hamzeh\\.android\\build-cache\\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout-v21\\notification_action.xml"
     }
 ]

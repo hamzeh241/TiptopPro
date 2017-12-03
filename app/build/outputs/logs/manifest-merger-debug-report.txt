@@ -1,110 +1,110 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:5:5-23:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hamzeh\.android\build-cache\da7cbdd6098d64beaec8256e5952b477063f406c\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\Hamzeh\.android\build-cache\8e478834d55ecda618d4bd75833b82342b3a5158\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Hamzeh\.android\build-cache\20d57890f9bc4c0228d4ff68dcb93adc1f1cfbfa\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Hamzeh\.android\build-cache\795d7fc5b5a09a79403927047680ded1ea8fd465\output\AndroidManifest.xml:26:5-20
-MERGED from [com.github.Hitomis:CircleMenu:v1.1.0] C:\Users\Hamzeh\.android\build-cache\33840d8b83309929f2d1dbf75ca09c5595640a65\output\AndroidManifest.xml:11:5-15:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hamzeh\.android\build-cache\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hamzeh\.android\build-cache\85a6b771111f5a0f71f05401194f1e2ee34186e8\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hamzeh\.android\build-cache\0e53d1a429cd280cba826df4805fab869a547f0b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hamzeh\.android\build-cache\9d1e58c46ddb8eae65caba8284228e430b194c79\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hamzeh\.android\build-cache\b667af9d708a6c9c563ee0cdb239b1cc6a6eda62\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hamzeh\.android\build-cache\f94b719b166909f3b48b9e74d5b6fc4d2306d9e3\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hamzeh\.android\build-cache\c854ccfce6308aa1b4e3ed88003bbd850731cfd3\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hamzeh\.android\build-cache\f58388e1f7e4162ecfcba944587f609cb3101491\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hamzeh\.android\build-cache\c2ff0351c3a69a67aecb2af346e133799c91a41a\output\AndroidManifest.xml:29:5-20
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\11azar\.android\build-cache\5e4591f1b8bf0029b5ca079c8f6a12b078737f40\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\11azar\.android\build-cache\db7f50b5b2ddbea7bfa67f4651415578518798e8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\11azar\.android\build-cache\703f28c6d24b1d23fc5a736165e0ffc0dd62b332\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\11azar\.android\build-cache\a92133cb915c2e77c39f15339b467f2ce9d2a5c2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.github.Hitomis:CircleMenu:v1.1.0] C:\Users\11azar\.android\build-cache\16c1266fa9c80785d64e0f1599290e2e98824b66\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\11azar\.android\build-cache\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\11azar\.android\build-cache\4d89b12c6140f87a3e966d9fdc9ddf75b44e887e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\11azar\.android\build-cache\1198b3bf9c5ed0121d14ca91425d9701a85725d9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\11azar\.android\build-cache\e70f9689330e8e0c9506d2c90289beb49dc23a45\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\11azar\.android\build-cache\a265714d43e36d970aa864a8b96ee59acd23d54d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\11azar\.android\build-cache\9fd83e0eb44b1bfbfef687174bb453b61ec2a442\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\11azar\.android\build-cache\bdc201b7e3ead3f8e2edccd6cd0b85dbeb16d61d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\11azar\.android\build-cache\d9bb8ec3bbe6b5a1b246243c35c52e7bcd2fb0f7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\11azar\.android\build-cache\17ab1482dc8abd89067fec86cbf8ea323cebd798\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:9:9-41
 	android:supportsRtl
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:11:9-35
 	android:roundIcon
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:10:9-54
 	android:allowBackup
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:7:9-35
 	android:icon
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:8:9-43
 	android:theme
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:12:9-40
 	android:name
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:6:9-41
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:6:9-41
 activity#com.tiptap.tda_user.tiptap.main.activity.view.Splash
-ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:13:9-18:20
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:13:9-18:20
 	android:name
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:13:19-60
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:13:19-60
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:14:13-17:29
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:14:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:16:27-74
 activity#com.tiptap.tda_user.tiptap.main.activity.view.Language
-ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:19:9-20:58
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:19:9-20:58
 	android:name
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:20:13-56
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:20:13-56
 activity#com.tiptap.tda_user.tiptap.main.activity.view.Function
-ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:21:9-22:58
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:21:9-22:58
 	android:name
-		ADDED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml:22:13-56
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:22:13-56
 uses-sdk
-INJECTED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hamzeh\.android\build-cache\da7cbdd6098d64beaec8256e5952b477063f406c\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:25.3.1] C:\Users\Hamzeh\.android\build-cache\8e478834d55ecda618d4bd75833b82342b3a5158\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Hamzeh\.android\build-cache\6eaf2f7d1ddc18f700eb4d09f2bd35f5822b1cb0\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Hamzeh\.android\build-cache\20d57890f9bc4c0228d4ff68dcb93adc1f1cfbfa\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Hamzeh\.android\build-cache\795d7fc5b5a09a79403927047680ded1ea8fd465\output\AndroidManifest.xml:20:5-43
-MERGED from [com.github.Hitomis:CircleMenu:v1.1.0] C:\Users\Hamzeh\.android\build-cache\33840d8b83309929f2d1dbf75ca09c5595640a65\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hamzeh\.android\build-cache\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hamzeh\.android\build-cache\85a6b771111f5a0f71f05401194f1e2ee34186e8\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hamzeh\.android\build-cache\0e53d1a429cd280cba826df4805fab869a547f0b\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hamzeh\.android\build-cache\9d1e58c46ddb8eae65caba8284228e430b194c79\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hamzeh\.android\build-cache\b667af9d708a6c9c563ee0cdb239b1cc6a6eda62\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hamzeh\.android\build-cache\f94b719b166909f3b48b9e74d5b6fc4d2306d9e3\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hamzeh\.android\build-cache\c854ccfce6308aa1b4e3ed88003bbd850731cfd3\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hamzeh\.android\build-cache\f58388e1f7e4162ecfcba944587f609cb3101491\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hamzeh\.android\build-cache\c2ff0351c3a69a67aecb2af346e133799c91a41a\output\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\11azar\.android\build-cache\5e4591f1b8bf0029b5ca079c8f6a12b078737f40\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\11azar\.android\build-cache\db7f50b5b2ddbea7bfa67f4651415578518798e8\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\11azar\.android\build-cache\59d9042b4a5761671378d926f936b4e2359391d2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\11azar\.android\build-cache\703f28c6d24b1d23fc5a736165e0ffc0dd62b332\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\11azar\.android\build-cache\a92133cb915c2e77c39f15339b467f2ce9d2a5c2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.github.Hitomis:CircleMenu:v1.1.0] C:\Users\11azar\.android\build-cache\16c1266fa9c80785d64e0f1599290e2e98824b66\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\11azar\.android\build-cache\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\11azar\.android\build-cache\4d89b12c6140f87a3e966d9fdc9ddf75b44e887e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\11azar\.android\build-cache\1198b3bf9c5ed0121d14ca91425d9701a85725d9\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\11azar\.android\build-cache\e70f9689330e8e0c9506d2c90289beb49dc23a45\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\11azar\.android\build-cache\a265714d43e36d970aa864a8b96ee59acd23d54d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\11azar\.android\build-cache\9fd83e0eb44b1bfbfef687174bb453b61ec2a442\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\11azar\.android\build-cache\bdc201b7e3ead3f8e2edccd6cd0b85dbeb16d61d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\11azar\.android\build-cache\d9bb8ec3bbe6b5a1b246243c35c52e7bcd2fb0f7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\11azar\.android\build-cache\17ab1482dc8abd89067fec86cbf8ea323cebd798\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Hamzeh\.android\build-cache\8e478834d55ecda618d4bd75833b82342b3a5158\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\11azar\.android\build-cache\db7f50b5b2ddbea7bfa67f4651415578518798e8\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Project\TipTopAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\Hamzeh\.android\build-cache\8e478834d55ecda618d4bd75833b82342b3a5158\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Hamzeh\.android\build-cache\6eaf2f7d1ddc18f700eb4d09f2bd35f5822b1cb0\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Hamzeh\.android\build-cache\20d57890f9bc4c0228d4ff68dcb93adc1f1cfbfa\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Hamzeh\.android\build-cache\795d7fc5b5a09a79403927047680ded1ea8fd465\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hamzeh\.android\build-cache\1a0b6f546361d81aebf2fc09f7a42934cbdaaea9\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hamzeh\.android\build-cache\85a6b771111f5a0f71f05401194f1e2ee34186e8\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hamzeh\.android\build-cache\0e53d1a429cd280cba826df4805fab869a547f0b\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hamzeh\.android\build-cache\9d1e58c46ddb8eae65caba8284228e430b194c79\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hamzeh\.android\build-cache\b667af9d708a6c9c563ee0cdb239b1cc6a6eda62\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hamzeh\.android\build-cache\f94b719b166909f3b48b9e74d5b6fc4d2306d9e3\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hamzeh\.android\build-cache\c854ccfce6308aa1b4e3ed88003bbd850731cfd3\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hamzeh\.android\build-cache\f58388e1f7e4162ecfcba944587f609cb3101491\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hamzeh\.android\build-cache\c2ff0351c3a69a67aecb2af346e133799c91a41a\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\11azar\.android\build-cache\db7f50b5b2ddbea7bfa67f4651415578518798e8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\11azar\.android\build-cache\59d9042b4a5761671378d926f936b4e2359391d2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\11azar\.android\build-cache\703f28c6d24b1d23fc5a736165e0ffc0dd62b332\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\11azar\.android\build-cache\a92133cb915c2e77c39f15339b467f2ce9d2a5c2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\11azar\.android\build-cache\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\11azar\.android\build-cache\4d89b12c6140f87a3e966d9fdc9ddf75b44e887e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\11azar\.android\build-cache\1198b3bf9c5ed0121d14ca91425d9701a85725d9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\11azar\.android\build-cache\e70f9689330e8e0c9506d2c90289beb49dc23a45\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\11azar\.android\build-cache\a265714d43e36d970aa864a8b96ee59acd23d54d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\11azar\.android\build-cache\9fd83e0eb44b1bfbfef687174bb453b61ec2a442\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\11azar\.android\build-cache\bdc201b7e3ead3f8e2edccd6cd0b85dbeb16d61d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\11azar\.android\build-cache\d9bb8ec3bbe6b5a1b246243c35c52e7bcd2fb0f7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\11azar\.android\build-cache\17ab1482dc8abd89067fec86cbf8ea323cebd798\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Hamzeh\.android\build-cache\8e478834d55ecda618d4bd75833b82342b3a5158\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\11azar\.android\build-cache\db7f50b5b2ddbea7bfa67f4651415578518798e8\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Hamzeh\.android\build-cache\8e478834d55ecda618d4bd75833b82342b3a5158\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\11azar\.android\build-cache\db7f50b5b2ddbea7bfa67f4651415578518798e8\output\AndroidManifest.xml:26:9-47

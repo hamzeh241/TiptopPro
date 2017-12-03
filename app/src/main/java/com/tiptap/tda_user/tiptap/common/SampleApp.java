@@ -12,6 +12,7 @@ public class SampleApp extends Application {
     public static final boolean ENCRYPTED = true;
     public MVP_Main.ProvidedPresenterOps mPresenter;
 
+
     public static SampleApp get(Context context) {
         return (SampleApp) context.getApplicationContext();
     }

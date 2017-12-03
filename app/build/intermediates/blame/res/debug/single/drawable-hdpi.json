@@ -1,18 +1,10 @@
 [
     {
-        "merged": "C:\\Temp\\tiptop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_add.png",
-        "source": "C:\\Temp\\tiptop2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add.png"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_delete.png",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete.png"
     },
     {
-        "merged": "C:\\Temp\\tiptop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_delete.png",
-        "source": "C:\\Temp\\tiptop2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete.png"
-    },
-    {
-        "merged": "C:\\Project\\TipTopAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_delete.png",
-        "source": "C:\\Project\\TipTopAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete.png"
-    },
-    {
-        "merged": "C:\\Project\\TipTopAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_add.png",
-        "source": "C:\\Project\\TipTopAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add.png"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_add.png",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add.png"
     }
 ]
