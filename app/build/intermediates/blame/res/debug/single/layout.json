@@ -8,8 +8,16 @@
         "source": "C:\\Users\\11azar\\.android\\build-cache\\db7f50b5b2ddbea7bfa67f4651415578518798e8\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_23.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_23.xml"
+    },
+    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\func.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\func.xml"
     },
     {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
@@ -24,12 +32,24 @@
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_31.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_31.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_15.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_15.xml"
+    },
+    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_3.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_3.xml"
     },
     {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
@@ -40,8 +60,24 @@
         "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\splash.xml"
     },
     {
-        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\holder_notes.xml",
-        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\holder_notes.xml"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_29.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_29.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_8.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_32.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_32.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_9.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_2.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_2.xml"
     },
     {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
@@ -52,24 +88,36 @@
         "source": "C:\\Users\\11azar\\.android\\build-cache\\db7f50b5b2ddbea7bfa67f4651415578518798e8\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\db7f50b5b2ddbea7bfa67f4651415578518798e8\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_16.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_16.xml"
+    },
+    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\toast.xml"
+    },
+    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_19.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_19.xml"
     },
     {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
@@ -84,8 +132,28 @@
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_10.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_24.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_24.xml"
+    },
+    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lesson.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\lesson.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_13.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_13.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_21.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_21.xml"
     },
     {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -116,6 +184,14 @@
         "source": "C:\\Users\\11azar\\.android\\build-cache\\db7f50b5b2ddbea7bfa67f4651415578518798e8\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_26.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_26.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_20.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_20.xml"
+    },
+    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\notification_template_lines_media.xml"
     },
@@ -136,16 +212,28 @@
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_18.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_18.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_5.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_5.xml"
+    },
+    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\db7f50b5b2ddbea7bfa67f4651415578518798e8\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_6.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_6.xml"
     },
     {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
@@ -160,12 +248,40 @@
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_27.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_27.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_12.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_12.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\db7f50b5b2ddbea7bfa67f4651415578518798e8\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_4.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_1.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_7.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\activity.xml"
     },
     {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
@@ -196,8 +312,16 @@
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_28.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_28.xml"
+    },
+    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\db7f50b5b2ddbea7bfa67f4651415578518798e8\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_14.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_14.xml"
     },
     {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
@@ -212,6 +336,10 @@
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_11.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_11.xml"
+    },
+    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\notification_template_media.xml"
     },
@@ -224,11 +352,31 @@
         "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\function.xml"
     },
     {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_22.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_22.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_25.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_25.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_30.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_30.xml"
+    },
+    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_33.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_33.xml"
+    },
+    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\language.xml",
         "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\language.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_17.xml",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_17.xml"
     }
 ]

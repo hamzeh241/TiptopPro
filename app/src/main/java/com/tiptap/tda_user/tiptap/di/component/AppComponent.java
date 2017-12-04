@@ -2,9 +2,10 @@ package com.tiptap.tda_user.tiptap.di.component;
 
 import android.app.Application;
 import com.tiptap.tda_user.tiptap.di.module.AppModule;
-import com.tiptap.tda_user.tiptap.di.module.Lmodel;
-import com.tiptap.tda_user.tiptap.di.module.MainActivityModule;
-
+import com.tiptap.tda_user.tiptap.di.module.Function_Module;
+import com.tiptap.tda_user.tiptap.di.module.Language_Module;
+import com.tiptap.tda_user.tiptap.di.module.Lesson_Module;
+import com.tiptap.tda_user.tiptap.di.module.Splash_Module;
 import javax.inject.Singleton;
 import dagger.Component;
 
@@ -12,6 +13,8 @@ import dagger.Component;
 @Component(modules = AppModule.class)
 public interface AppComponent {
     Application application();
-    MainActivityComponent getMainComponent(MainActivityModule module);
-    LmodelComponent getMComponent(Lmodel module);
+    Function_Component getFunctionComponent(Function_Module module);
+    Lesson_Component getLessonComponent(Lesson_Module module);
+    Language_Component getLanguageComponent(Language_Module module);
+    Splash_Component getSplashComponent(Splash_Module module);
 }
