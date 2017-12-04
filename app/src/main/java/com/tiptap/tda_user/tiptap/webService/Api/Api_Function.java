@@ -31,7 +31,6 @@ import static com.tiptap.tda_user.tiptap.common.SampleApp.getMethodName;
 public class Api_Function extends BaseSetingApi {
 
     IAppInfo iAppInfo;
-
     Context context;
     Activity mactivity;
     ProgressDialog pDialog;
@@ -89,15 +88,13 @@ public class Api_Function extends BaseSetingApi {
                             // update
                             else {
                                 String Q2="update function set title='"+title+"',row='"+row+"' where id="+id;
-                                //Splash.sqlite.function(Q2);
-                                //iAppInfo.InsertAd(Q2);
+                                iAppInfo.InsertAd(Q2);
                             }
                         }
 
                         if(insert) {
                             Q1 = Q1.substring(0, Q1.trim().length() - 1).concat(";");
-                            //Splash.sqlite.function(Q1);
-                            //iAppInfo.InsertAd(Q1);
+                            iAppInfo.InsertAd(Q1);
                         }
 
                         Cursor c = mdb.rawQuery("select * from function", null);

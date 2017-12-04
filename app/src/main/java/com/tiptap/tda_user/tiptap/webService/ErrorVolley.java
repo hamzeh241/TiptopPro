@@ -1,7 +1,6 @@
 package com.tiptap.tda_user.tiptap.webService;
 
 import android.content.Context;
-
 import com.android.volley.AuthFailureError;
 import com.android.volley.NetworkError;
 import com.android.volley.NoConnectionError;

@@ -4,7 +4,6 @@ import android.content.Context;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -14,7 +13,7 @@ import java.io.OutputStream;
 public class DataBaseHelper extends SQLiteOpenHelper {
 
     String DB_PATH;// = "/data/data/" + this.getClass().getPackage().getName() + "/databases/";
-    private static String DB_NAME = "shahrvand.sqlite";
+    private static String DB_NAME = "tiptop.sqlite";
     private SQLiteDatabase myDataBase;
     private final Context myContext;
 

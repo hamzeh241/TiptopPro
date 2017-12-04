@@ -2,7 +2,6 @@ package com.tiptap.tda_user.tiptap.webService;
 
 import android.graphics.Bitmap;
 import android.support.v4.util.LruCache;
-
 import com.android.volley.toolbox.ImageLoader;
 
 public class LruBitmapCache extends LruCache<String, Bitmap> implements ImageLoader.ImageCache {

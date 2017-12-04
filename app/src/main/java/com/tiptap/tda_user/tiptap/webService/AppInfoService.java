@@ -2,21 +2,27 @@ package com.tiptap.tda_user.tiptap.webService;
 
 import android.content.Context;
 import android.database.Cursor;
+import com.tiptap.tda_user.tiptap.webService.viewmodel.FunctionViewModel;
+import java.util.ArrayList;
+import java.util.List;
+import static com.tiptap.tda_user.tiptap.common.SampleApp.getMethodName;
 
 public class AppInfoService implements IAppInfo {
+
     DBAdapter dbAdapter;
     Context context;
-   // private List<AppInfo> AppList;
-    //private List<AdViewModel> AdList;
+    private List<AppInfo> AppList;
+    private List<FunctionViewModel> FList;
+
     public AppInfoService(Context _conContext) {
         context=_conContext;
         dbAdapter=new DBAdapter(context);
-        //AppList = new ArrayList<>();
-        //AdList = new ArrayList<>();
+        AppList = new ArrayList<>();
+        FList = new ArrayList<>();
 
     }
 
-    /*@Override
+    @Override
     public List<AppInfo> getInfoApp() {
         try{
             String q="SELECT [AppInfo].[Version] FROM [AppInfo]";
@@ -30,33 +36,34 @@ public class AppInfoService implements IAppInfo {
             }}
         catch (Exception ex)
         {
-            new PostError(context,ex.getMessage(), Utility.getMethodName()).postError();
+            new PostError(context,ex.getMessage(), getMethodName()).postError();
 
         }
         return AppList;
     }
 
     @Override
-    public List<AdViewModel> getListAd() {
+    public List<FunctionViewModel> getListFun() {
         try{
-            String q="SELECT [id],[AdText],[AdImage] FROM [Ad]";
-            Cursor cursor=dbAdapter.ExecuteQ(q);
+            String q = "SELECT [id_function],[title_function],[row_version] FROM [Function]";
+            Cursor cursor = dbAdapter.ExecuteQ(q);
             int count=cursor.getCount();
             cursor.moveToFirst();
             for (int i = 0; i < count; i++) {
-                AdViewModel  app = new AdViewModel();
-                app.setAdImage(cursor.getString(2));
-                app.setAdText(cursor.getString(1));
-                AdList.add(app);
+                FunctionViewModel  app = new FunctionViewModel();
+                app.setTitle_function(cursor.getString(1));
+                app.setRow_version(cursor.getString(2));
+                FList.add(app);
                 cursor.moveToNext();
             }}
         catch (Exception ex)
         {
-            new PostError(context,ex.getMessage(),Utility.getMethodName()).postError();
+            new PostError(context,ex.getMessage(),getMethodName()).postError();
 
         }
-        return AdList;
-    }*/
+        return FList;
+    }
+
 
     @Override
     public int getMaxId() {
