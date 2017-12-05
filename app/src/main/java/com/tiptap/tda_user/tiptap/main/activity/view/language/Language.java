@@ -70,8 +70,8 @@ public class Language
             @Override
             public void onMenuClosed() {
                 Function.lan = menu;
-                startActivity(new Intent(Language.this, Act_1.class));
-                //startActivity(new Intent(Language.this, Function.class));
+                startActivity(new Intent(Language.this, Function.class));
+                //startActivity(new Intent(Language.this, Act_1.class));
             }
         });
         final Handler handler = new Handler();
