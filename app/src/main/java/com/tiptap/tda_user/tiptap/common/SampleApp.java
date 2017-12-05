@@ -10,7 +10,7 @@ import com.android.volley.toolbox.Volley;
 import com.tiptap.tda_user.tiptap.di.component.AppComponent;
 import com.tiptap.tda_user.tiptap.di.component.DaggerAppComponent;
 import com.tiptap.tda_user.tiptap.di.module.AppModule;
-import com.tiptap.tda_user.tiptap.webService.LruBitmapCache;
+import com.tiptap.tda_user.tiptap.webService.DB.LruBitmapCache;
 
 public class SampleApp extends Application {
 

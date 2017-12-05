@@ -5,8 +5,6 @@ import android.support.v4.view.ViewPager;
 import com.tiptap.tda_user.tiptap.MVP_Function;
 import com.tiptap.tda_user.tiptap.main.activity.view.function.CardPagerAdapter;
 import com.tiptap.tda_user.tiptap.main.activity.view.function.ShadowTransformer;
-import com.tiptap.tda_user.tiptap.main.activity.view.splash.Splash;
-import com.tiptap.tda_user.tiptap.webService.SQLite;
 
 public class Function_Model implements MVP_Function.ProvidedModelOps {
 
@@ -14,7 +12,6 @@ public class Function_Model implements MVP_Function.ProvidedModelOps {
 
     public Function_Model(MVP_Function.RequiredPresenterOps presenter) {
         this.mPresenter = presenter;
-        Splash.sqlite = new SQLite(mPresenter.getAppContext());
     }
 
     @Override

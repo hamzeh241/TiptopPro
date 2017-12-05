@@ -13,6 +13,7 @@ import com.tiptap.tda_user.tiptap.MVP_Language;
 import com.tiptap.tda_user.tiptap.R;
 import com.tiptap.tda_user.tiptap.common.StateMaintainer;
 import com.tiptap.tda_user.tiptap.main.activity.presenter.Language_Presenter;
+import com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_1;
 import com.tiptap.tda_user.tiptap.main.activity.view.function.Function;
 import javax.inject.Inject;
 
@@ -69,7 +70,8 @@ public class Language
             @Override
             public void onMenuClosed() {
                 Function.lan = menu;
-                startActivity(new Intent(Language.this, Function.class));
+                startActivity(new Intent(Language.this, Act_1.class));
+                //startActivity(new Intent(Language.this, Function.class));
             }
         });
         final Handler handler = new Handler();

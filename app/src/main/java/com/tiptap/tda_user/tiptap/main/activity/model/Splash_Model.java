@@ -4,7 +4,6 @@ import com.tiptap.tda_user.tiptap.MVP_Splash;
 public class Splash_Model implements MVP_Splash.ProvidedModelOps {
 
     private MVP_Splash.RequiredPresenterOps mPresenter;
-    //private DaoSession daoSession;
 
     public Splash_Model(MVP_Splash.RequiredPresenterOps presenter) {
         this.mPresenter = presenter;
@@ -18,7 +17,6 @@ public class Splash_Model implements MVP_Splash.ProvidedModelOps {
     public void onDestroy(boolean isChangingConfiguration) {
         if (!isChangingConfiguration) {
             mPresenter = null;
-            //daoSession = null;
         }
     }
 

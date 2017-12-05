@@ -15,6 +15,7 @@ import com.tiptap.tda_user.tiptap.common.SampleApp;
 import com.tiptap.tda_user.tiptap.common.StateMaintainer;
 import com.tiptap.tda_user.tiptap.di.module.Function_Module;
 import com.tiptap.tda_user.tiptap.main.activity.presenter.Function_Presenter;
+import com.tiptap.tda_user.tiptap.webService.Function.Api_Function;
 import javax.inject.Inject;
 
 public class Function
@@ -40,9 +41,9 @@ public class Function
         setupViews();
         setupMVP();
 
-       /* new Api_Function(
+        new Api_Function(
                 haveNetworkConnection(),getAppContext(), Function.this,
-                db, mViewPager, mCardAdapter, mCardShadowTransformer);*/
+                db, mViewPager, mCardAdapter, mCardShadowTransformer);
     }
 
     @Override

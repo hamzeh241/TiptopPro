@@ -16,7 +16,7 @@ import com.tiptap.tda_user.tiptap.common.StateMaintainer;
 import com.tiptap.tda_user.tiptap.di.module.Splash_Module;
 import com.tiptap.tda_user.tiptap.main.activity.presenter.Splash_Presenter;
 import com.tiptap.tda_user.tiptap.main.activity.view.language.Language;
-import com.tiptap.tda_user.tiptap.webService.SQLite;
+
 import javax.inject.Inject;
 
 public class Splash
@@ -25,8 +25,6 @@ public class Splash
 
     TextView text;
     Animation animation;
-    public static SQLite sqlite;
-
     private static final String TAG = Splash.class.getSimpleName();
 
     @Inject
@@ -38,8 +36,6 @@ public class Splash
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.splash);
-
-        sqlite = new SQLite(Splash.this);
 
         setupViews();
         setupMVP();
