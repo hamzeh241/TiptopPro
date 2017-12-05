@@ -112,12 +112,12 @@
         "source": "C:\\Users\\11azar\\.android\\build-cache\\db7f50b5b2ddbea7bfa67f4651415578518798e8\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l2_a1.png",
-        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\drawable\\l2_a1.png"
-    },
-    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l2_a1.png",
+        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\drawable\\l2_a1.png"
     },
     {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two.png",
