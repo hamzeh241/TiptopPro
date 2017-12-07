@@ -11,269 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f74c467-3b6a-44c7-8499-29128db802b2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/function_lesson/CardPagerAdapter_L.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Api/Get_Activity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Api/Get_ActivityDetail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Api/Get_Glossary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Api/Get_Lesson.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Api/Get_User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Cls/Set_Activity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Cls/Set_Lesson.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Interface/IGlossary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Interface/IUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Service/Service_Activity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Service/Service_ActivityDetail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Service/Service_Glossary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Service/Service_User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/viewmodel/TbGlossary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/viewmodel/TbLanguage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/viewmodel/TbUser.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/Lesson_MembersInjector.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/github/chenupt/multiplemodel/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/github/chenupt/springindicator/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/presenter/Lesson_Presenter$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/function/CardAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/function/CardItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/function/CardPagerAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/function/CardPagerAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/function/Function.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/function/Function_MembersInjector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/function/ShadowTransformer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/GuideFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/GuideFragment$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/GuideFragment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/GuideFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/GuideFragment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/GuideFragment$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/GuideFragment$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/GuideFragment$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/GuideFragment$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/GuideFragment$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/GuideFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/Lesson.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/lesson/Lesson_MembersInjector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/viewmodel/TbActivityType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/github/chenupt/multiplemodel/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/github/chenupt/springindicator/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/github/chenupt/springindicator/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/github/chenupt/springindicator/R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/github/chenupt/springindicator/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/github/chenupt/springindicator/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/github/chenupt/springindicator/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/github/chenupt/springindicator/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/github/chenupt/springindicator/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/github/chenupt/springindicator/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/github/chenupt/springindicator/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/github/chenupt/springindicator/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/github/chenupt/springindicator/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_6b073a5e583ba79f0cabd8b82fcd1160e0ba0ef9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_8eb46e109187827576a538f20ee2e2b916bfba89.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/eight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/five.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/four.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/nine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/one.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/seven.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/six.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/ten.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/three.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/two.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/lesson/GuideFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/eight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/five.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/four.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/nine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/one.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/seven.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/six.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ten.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/three.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/two.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/tiptap/tda_user/tiptap/main/activity/view/function/Function_MembersInjector.java" afterPath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/tiptap/tda_user/tiptap/main/activity/view/function_lesson/Function_MembersInjector.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/function/CardAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/function_lesson/CardAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/function/CardItem.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/function_lesson/CardItem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/function/CardPagerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/function_lesson/CardPagerAdapter_F.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/function/Function.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/function_lesson/Function.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/function/ShadowTransformer.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/function_lesson/ShadowTransformer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/lesson/Lesson.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/function_lesson/Lesson.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Interface/IActivityType.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Interface/IActivityDetail.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/viewmodel/TbActivityType.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/viewmodel/TbActivityDetail.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/tiptop.sqlite" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/tiptop.sqlite" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/constraint/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hitomi/cmlibrary/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hitomi/cmlibrary/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hitomi/cmlibrary/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hitomi/cmlibrary/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hitomi/cmlibrary/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hitomi/cmlibrary/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hitomi/cmlibrary/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hitomi/cmlibrary/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hitomi/cmlibrary/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hitomi/cmlibrary/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hitomi/cmlibrary/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hitomi/cmlibrary/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/MVP_Function$ProvidedModelOps.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/MVP_Function$ProvidedModelOps.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/MVP_Function$ProvidedPresenterOps.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/MVP_Function$ProvidedPresenterOps.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/MVP_Lesson$ProvidedModelOps.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/MVP_Lesson$ProvidedModelOps.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/MVP_Lesson$ProvidedPresenterOps.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/MVP_Lesson$ProvidedPresenterOps.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/MVP_Lesson$RequiredViewOps.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/MVP_Lesson$RequiredViewOps.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$raw.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$raw.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/component/DaggerAppComponent$Function_ComponentImpl.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/component/DaggerAppComponent$Function_ComponentImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/component/DaggerAppComponent$Lesson_ComponentImpl.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/component/DaggerAppComponent$Lesson_ComponentImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/component/Function_Component.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/component/Function_Component.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/component/Lesson_Component.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/component/Lesson_Component.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/module/Function_Module.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/module/Function_Module.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/module/Function_Module_ProvidesMainActivityFactory.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/module/Function_Module_ProvidesMainActivityFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/module/Lesson_Module.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/module/Lesson_Module.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/module/Lesson_Module_ProvidesLessonActivityFactory.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/di/module/Lesson_Module_ProvidesLessonActivityFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/model/Function_Model.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/model/Function_Model.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/model/Lesson_Model.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/model/Lesson_Model.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/presenter/Lesson_Presenter$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/presenter/Lesson_Presenter$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/presenter/Lesson_Presenter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/presenter/Lesson_Presenter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_12.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_13.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_13.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_14.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_14.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_15.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_15.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_16.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_16.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_17.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_17.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_18.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_18.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_19.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_19.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_20.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_20.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_21.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_21.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_22.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_22.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_23.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_23.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_24.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_24.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_25.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_25.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_26.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_26.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_27.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_27.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_28.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_28.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_29.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_29.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_30.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_30.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_31.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_31.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_32.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_32.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_33.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_33.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Act_9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Adapter$ViewHolder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Adapter$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Adapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/activity/Adapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/language/Language$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/language/Language$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/language/Language$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/language/Language$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/language/Language$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/language/Language$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/language/Language.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/language/Language.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/splash/Splash.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/main/activity/view/splash/Splash.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/Api/Get_Function$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/Api/Get_Function$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/Api/Get_Function$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/Api/Get_Function$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/Api/Get_Function.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/Api/Get_Function.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/Cls/Set_Function.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/Cls/Set_Function.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/Interface/IFunction.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/Interface/IFunction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/Service/Service_Function.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/Service/Service_Function.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/viewmodel/TbActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tiptap/tda_user/tiptap/webService/viewmodel/TbActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/a9_X54R+4xm8qvYIazGMjrAiNSU=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/a9_X54R+4xm8qvYIazGMjrAiNSU=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_44a570639d85d1c4122fb016abb5d4d53169a276.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_44a570639d85d1c4122fb016abb5d4d53169a276.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/tiptop.sqlite" afterPath="$PROJECT_DIR$/app/src/main/assets/tiptop.sqlite" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/tiptap/tda_user/tiptap/di/component/DaggerAppComponent.java" afterPath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/tiptap/tda_user/tiptap/di/component/DaggerAppComponent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/tiptap/tda_user/tiptap/di/module/Function_Module_ProvidesMainActivityFactory.java" afterPath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/tiptap/tda_user/tiptap/di/module/Function_Module_ProvidesMainActivityFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/tiptap/tda_user/tiptap/di/module/Lesson_Module_ProvidesLessonActivityFactory.java" afterPath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/tiptap/tda_user/tiptap/di/module/Lesson_Module_ProvidesLessonActivityFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/constraint/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/constraint/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/transition/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/transition/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/hitomi/cmlibrary/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/hitomi/cmlibrary/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/tiptap/tda_user/tiptap/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/tiptap/tda_user/tiptap/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/lesson.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/lesson.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/MVP_Function.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/MVP_Function.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/MVP_Lesson.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/MVP_Lesson.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/di/component/Function_Component.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/di/component/Function_Component.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/di/component/Lesson_Component.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/di/component/Lesson_Component.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/di/module/Function_Module.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/di/module/Function_Module.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/di/module/Lesson_Module.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/di/module/Lesson_Module.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/model/Function_Model.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/model/Function_Model.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/model/Lesson_Model.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/model/Lesson_Model.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/presenter/Function_Presenter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/presenter/Function_Presenter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/presenter/Lesson_Presenter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/presenter/Lesson_Presenter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/language/Language.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/main/activity/view/language/Language.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Api/Get_Function.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Api/Get_Function.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Cls/Set_Function.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Cls/Set_Function.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/DB/DBAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/DB/DBAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Interface/IActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Interface/IActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Interface/IFunction.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Interface/IFunction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Interface/ILesson.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Interface/ILesson.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Service/Service_Function.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Service/Service_Function.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Service/Service_Lesson.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/Service/Service_Lesson.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/viewmodel/TbActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/tiptap/tda_user/tiptap/webService/viewmodel/TbActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/lesson.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/lesson.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
     </list>
     <ignored path="tiptop2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -2599,7 +2337,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512635643452" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512635759442" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2647,7 +2385,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512635643452" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512635759442" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2830,7 +2568,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512635643452" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512635759442" />
       </method>
     </configuration>
     <list size="1">
@@ -2918,7 +2656,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512479379301</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="saro: 16azar_change1">
+      <created>1512635708220</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1512635708220</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -2943,7 +2688,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6617647" sideWeight="0.36632654" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="92" y="92" width="840" height="544" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5604575" sideWeight="0.40392563" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5718954" sideWeight="0.53265303" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5718954" sideWeight="0.53265303" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.48347107" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6388889" sideWeight="0.6336735" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -3013,7 +2758,8 @@
     <MESSAGE value="saro: 13azar_change2" />
     <MESSAGE value="saro: 14azar_change1" />
     <MESSAGE value="saro: 14azar_change2" />
-    <option name="LAST_COMMIT_MESSAGE" value="saro: 14azar_change2" />
+    <MESSAGE value="saro: 16azar_change1" />
+    <option name="LAST_COMMIT_MESSAGE" value="saro: 16azar_change1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3061,6 +2807,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3068,6 +2815,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
           <caret line="40" column="3" lean-forward="false" selection-start-line="40" selection-start-column="3" selection-end-line="50" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3075,6 +2823,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
           <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
