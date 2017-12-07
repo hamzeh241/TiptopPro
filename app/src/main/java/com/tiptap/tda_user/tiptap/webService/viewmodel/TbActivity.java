@@ -79,11 +79,11 @@ public class TbActivity {
         Path2 = path2;
     }
 
-    public boolean isNote() {
+    public boolean getIsNote() {
         return IsNote;
     }
 
-    public void setNote(boolean note) {
+    public void setIsNote(boolean note) {
         IsNote = note;
     }
 

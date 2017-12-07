@@ -6,6 +6,10 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
     <application
         android:name=".common.SampleApp"
         android:allowBackup="true"
@@ -23,9 +27,9 @@
         <activity
             android:name=".main.activity.view.language.Language"/>
         <activity
-            android:name=".main.activity.view.function.Function"/>
+            android:name=".main.activity.view.function_lesson.Function"/>
         <activity
-            android:name=".main.activity.view.lesson.Lesson"/>
+            android:name=".main.activity.view.function_lesson.Lesson"/>
         <activity
             android:name=".main.activity.view.activity.Act_1"/>
         <activity

@@ -38,17 +38,17 @@ public class Lesson_Model implements MVP_Lesson.ProvidedModelOps {
      //   return activities.get(position);
    // }
 
-    @Override
-    public boolean insertActivity(String fun) {
-       /* int id = getActivitesCount()+1;
-        Long long_id = Long.valueOf(id);
-        Long insert = getDaoSession().getActivityDao().insert(new Activity(long_id, id, fun, "aval", "note", "a1"));
-        if (insert == long_id) {
-            loadData();
-            return true;
-        }*/
-        return false;
-    }
+//    @Override
+//    public boolean insertActivity(String fun) {
+//       /* int id = getActivitesCount()+1;
+//        Long long_id = Long.valueOf(id);
+//        Long insert = getDaoSession().getActivityDao().insert(new Activity(long_id, id, fun, "aval", "note", "a1"));
+//        if (insert == long_id) {
+//            loadData();
+//            return true;
+//        }*/
+//        return false;
+//    }
 
     @Override
     public boolean deleteALLActivity() {

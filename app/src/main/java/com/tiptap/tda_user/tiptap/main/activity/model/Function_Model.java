@@ -3,8 +3,8 @@ package com.tiptap.tda_user.tiptap.main.activity.model;
 import android.content.Context;
 import android.support.v4.view.ViewPager;
 import com.tiptap.tda_user.tiptap.MVP_Function;
-import com.tiptap.tda_user.tiptap.main.activity.view.function.CardPagerAdapter;
-import com.tiptap.tda_user.tiptap.main.activity.view.function.ShadowTransformer;
+import com.tiptap.tda_user.tiptap.main.activity.view.function_lesson.CardPagerAdapter_L;
+import com.tiptap.tda_user.tiptap.main.activity.view.function_lesson.ShadowTransformer;
 
 public class Function_Model implements MVP_Function.ProvidedModelOps {
 
@@ -27,7 +27,7 @@ public class Function_Model implements MVP_Function.ProvidedModelOps {
     }
 
     @Override
-    public boolean insertFunction(String[][] funs, ViewPager mViewPager, CardPagerAdapter mCardAdapter, ShadowTransformer mCardShadowTransformer, Context _ctx, MVP_Function.ProvidedPresenterOps mPresenter) {
+    public boolean insertFunction(String[][] funs, ViewPager mViewPager, CardPagerAdapter_L mCardAdapter, ShadowTransformer mCardShadowTransformer, Context _ctx, MVP_Function.ProvidedPresenterOps mPresenter) {
         return false;
     }
 

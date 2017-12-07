@@ -37,7 +37,7 @@ public class DBAdapter {
             mDb = mDbHelper.getReadableDatabase();
         }
         catch (SQLException mSQLException) {
-            Log.e(TAG, "open >>"+ mSQLException.toString());
+            Log.e(TAG, "open >>" + mSQLException.toString());
             throw mSQLException;
         }
         return this;

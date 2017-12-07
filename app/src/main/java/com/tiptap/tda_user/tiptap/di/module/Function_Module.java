@@ -4,7 +4,7 @@ import com.tiptap.tda_user.tiptap.MVP_Function;
 import com.tiptap.tda_user.tiptap.di.scope.ActivityScope;
 import com.tiptap.tda_user.tiptap.main.activity.model.Function_Model;
 import com.tiptap.tda_user.tiptap.main.activity.presenter.Function_Presenter;
-import com.tiptap.tda_user.tiptap.main.activity.view.function.Function;
+import com.tiptap.tda_user.tiptap.main.activity.view.function_lesson.Function;
 import dagger.Module;
 import dagger.Provides;
 

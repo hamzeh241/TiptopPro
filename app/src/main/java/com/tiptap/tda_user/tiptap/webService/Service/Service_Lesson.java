@@ -22,6 +22,22 @@ public class Service_Lesson implements ILesson {
         LList = new ArrayList<>();
     }
 
+
+    @Override
+    public String getMaxRowV_Lesson() {
+        String q="SELECT MAX(RowVersion) as RowVersion FROM TbLesson";
+        Cursor cursor=dbAdapter.ExecuteQ(q);
+        int count=cursor.getCount();
+        cursor.moveToFirst();
+        String id="0x0";
+        for (int i = 0; i < count; i++) {
+            id=cursor.getString(0);
+        }
+        if(null==id)
+            id="0x0";
+        return id;
+    }
+
     @Override
     public int getMaxId_Lesson() {
         String q="SELECT [_id] FROM TbLesson ORDER BY _id DESC LIMIT 1";
@@ -36,8 +52,8 @@ public class Service_Lesson implements ILesson {
     }
 
     @Override
-    public int getCount_Lesson() {
-        String q="SELECT Count([_id]) as x FROM TbLesson";
+    public int getCount_Lesson(int fid) {
+        String q="SELECT Count([_id]) as x FROM TbLesson where Id_Function = "+ fid;
         Cursor cursor=dbAdapter.ExecuteQ(q);
         int count=cursor.getCount();
         cursor.moveToFirst();
@@ -54,16 +70,18 @@ public class Service_Lesson implements ILesson {
     }
 
     @Override
-    public List<TbLesson> getListLesson() {
+    public List<TbLesson> getListLesson(int fid) {
         try{
-            String q = "SELECT [_id],[Title],[RowVersion] FROM [TbLesson]";
+            String q = "SELECT [_id],[Id_Function],[LessonNumber],[RowVersion] FROM [TbLesson] where Id_Function = "+ fid;
             Cursor cursor = dbAdapter.ExecuteQ(q);
             int count=cursor.getCount();
             cursor.moveToFirst();
             for (int i = 0; i < count; i++) {
                 TbLesson app = new TbLesson();
-                //app.setTitle(cursor.getString(1));
-                //app.setRowVersion(cursor.getString(2));
+                app.set_id(Integer.parseInt(cursor.getString(0)));
+                app.setId_Function(Integer.parseInt(cursor.getString(1)));
+                app.setLessonNumber(Integer.parseInt(cursor.getString(2)));
+                app.setRowVersion(cursor.getString(3));
                 LList.add(app);
                 cursor.moveToNext();
             }}
@@ -73,17 +91,5 @@ public class Service_Lesson implements ILesson {
 
         }
         return LList;
-    }
-
-    public String GetMaxRowV() {
-        String q = "SELECT [RowVersion] FROM TbLesson ORDER BY RowVersion DESC LIMIT 1";
-        Cursor cursor = dbAdapter.ExecuteQ(q);
-        int count = cursor.getCount();
-        cursor.moveToFirst();
-        String id = "0x0";
-        for (int i = 0; i < count; i++) {
-            id = cursor.getString(0);
-        }
-        return id;
     }
 }

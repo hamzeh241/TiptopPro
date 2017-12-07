@@ -280,10 +280,6 @@
         "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\act_7.xml"
     },
     {
-        "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity.xml",
-        "source": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\src\\main\\res\\layout\\activity.xml"
-    },
-    {
         "merged": "C:\\Users\\11azar\\AndroidStudioProjects\\TiptopPro\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\11azar\\.android\\build-cache\\0abf3ee54cf5aae9d11d3a5b3379dc255f942c79\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },

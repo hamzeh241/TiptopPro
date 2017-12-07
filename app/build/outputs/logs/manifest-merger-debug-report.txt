@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:2:1-96:12
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:2:1-100:12
 	package
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:3:5-41
 		INJECTED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml
@@ -25,8 +25,20 @@ uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:7:5-76
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:11:22-78
 application
-ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:9:5-95:19
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:13:5-99:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\11azar\.android\build-cache\5e4591f1b8bf0029b5ca079c8f6a12b078737f40\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] C:\Users\11azar\.android\build-cache\db7f50b5b2ddbea7bfa67f4651415578518798e8\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:transition:25.3.1] C:\Users\11azar\.android\build-cache\703f28c6d24b1d23fc5a736165e0ffc0dd62b332\output\AndroidManifest.xml:26:5-20
@@ -41,181 +53,179 @@ MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\11azar\.and
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\11azar\.android\build-cache\bdc201b7e3ead3f8e2edccd6cd0b85dbeb16d61d\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\11azar\.android\build-cache\d9bb8ec3bbe6b5a1b246243c35c52e7bcd2fb0f7\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\11azar\.android\build-cache\17ab1482dc8abd89067fec86cbf8ea323cebd798\output\AndroidManifest.xml:29:5-20
-MERGED from [com.github.chenupt.android:springindicator:1.0.2] C:\Users\11azar\.android\build-cache\f6eab46500b48d8bfd8c381c7482155a7e42e38b\output\AndroidManifest.xml:11:5-20
-MERGED from [com.github.chenupt.android:multiplemodel:1.1.0] C:\Users\11azar\.android\build-cache\20cbb4983041901d4fc1890da2a6c9866d476bde\output\AndroidManifest.xml:11:5-20
 MERGED from [com.android.volley:volley:1.0.0] C:\Users\11azar\.android\build-cache\6cae859284507589cc24e70c69263f048395a48a\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:17:9-41
 	android:supportsRtl
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:19:9-35
 	android:roundIcon
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:18:9-54
 	android:allowBackup
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:15:9-35
 	android:icon
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:16:9-43
 	android:theme
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:16:9-40
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:20:9-40
 	android:name
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:14:9-41
 activity#com.tiptap.tda_user.tiptap.main.activity.view.splash.Splash
-ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:17:9-22:20
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:21:9-26:20
 	android:name
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:17:19-67
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:21:19-67
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:18:13-21:29
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:24:27-74
 activity#com.tiptap.tda_user.tiptap.main.activity.view.language.Language
-ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:23:9-24:67
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:27:9-28:67
 	android:name
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:24:13-65
-activity#com.tiptap.tda_user.tiptap.main.activity.view.function.Function
-ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:25:9-26:67
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:28:13-65
+activity#com.tiptap.tda_user.tiptap.main.activity.view.function_lesson.Function
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:29:9-30:74
 	android:name
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:26:13-65
-activity#com.tiptap.tda_user.tiptap.main.activity.view.lesson.Lesson
-ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:27:9-28:63
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:30:13-72
+activity#com.tiptap.tda_user.tiptap.main.activity.view.function_lesson.Lesson
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:31:9-32:72
 	android:name
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:28:13-61
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:32:13-70
 activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_1
-ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:29:9-30:64
-	android:name
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:30:13-62
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_2
-ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:31:9-32:64
-	android:name
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:32:13-62
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_3
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:33:9-34:64
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:34:13-62
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_4
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_2
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:35:9-36:64
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:36:13-62
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_5
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_3
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:37:9-38:64
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:38:13-62
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_6
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_4
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:39:9-40:64
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:40:13-62
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_7
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_5
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:41:9-42:64
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:42:13-62
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_8
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_6
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:43:9-44:64
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:44:13-62
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_9
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_7
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:45:9-46:64
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:46:13-62
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_8
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:47:9-48:64
+	android:name
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:48:13-62
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_9
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:49:9-50:64
+	android:name
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:50:13-62
 activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_10
-ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:47:9-48:65
-	android:name
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:48:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_11
-ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:49:9-50:65
-	android:name
-		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:50:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_12
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:51:9-52:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:52:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_13
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_11
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:53:9-54:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:54:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_14
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_12
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:55:9-56:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:56:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_15
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_13
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:57:9-58:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:58:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_16
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_14
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:59:9-60:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:60:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_17
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_15
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:61:9-62:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:62:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_18
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_16
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:63:9-64:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:64:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_19
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_17
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:65:9-66:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:66:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_20
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_18
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:67:9-68:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:68:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_21
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_19
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:69:9-70:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:70:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_22
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_20
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:71:9-72:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:72:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_23
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_21
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:73:9-74:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:74:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_24
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_22
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:75:9-76:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:76:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_25
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_23
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:77:9-78:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:78:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_26
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_24
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:79:9-80:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:80:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_27
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_25
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:81:9-82:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:82:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_28
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_26
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:83:9-84:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:84:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_29
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_27
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:85:9-86:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:86:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_30
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_28
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:87:9-88:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:88:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_31
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_29
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:89:9-90:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:90:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_32
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_30
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:91:9-92:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:92:13-63
-activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_33
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_31
 ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:93:9-94:65
 	android:name
 		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:94:13-63
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_32
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:95:9-96:65
+	android:name
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:96:13-63
+activity#com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_33
+ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:97:9-98:65
+	android:name
+		ADDED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml:98:13-63
 uses-sdk
 INJECTED from C:\Users\11azar\AndroidStudioProjects\TiptopPro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\11azar\.android\build-cache\5e4591f1b8bf0029b5ca079c8f6a12b078737f40\output\AndroidManifest.xml:5:5-7:41
@@ -233,8 +243,6 @@ MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\11azar\.and
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\11azar\.android\build-cache\bdc201b7e3ead3f8e2edccd6cd0b85dbeb16d61d\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\11azar\.android\build-cache\d9bb8ec3bbe6b5a1b246243c35c52e7bcd2fb0f7\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\11azar\.android\build-cache\17ab1482dc8abd89067fec86cbf8ea323cebd798\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.github.chenupt.android:springindicator:1.0.2] C:\Users\11azar\.android\build-cache\f6eab46500b48d8bfd8c381c7482155a7e42e38b\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.chenupt.android:multiplemodel:1.1.0] C:\Users\11azar\.android\build-cache\20cbb4983041901d4fc1890da2a6c9866d476bde\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.volley:volley:1.0.0] C:\Users\11azar\.android\build-cache\6cae859284507589cc24e70c69263f048395a48a\output\AndroidManifest.xml:7:5-43
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] C:\Users\11azar\.android\build-cache\db7f50b5b2ddbea7bfa67f4651415578518798e8\output\AndroidManifest.xml:23:9-59

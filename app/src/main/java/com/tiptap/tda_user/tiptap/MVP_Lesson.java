@@ -8,16 +8,15 @@ public interface MVP_Lesson {
     interface RequiredViewOps {
         Context getAppContext();
         Context getActivityContext();
-        void showToast(Toast toast);
     }
 
     interface ProvidedPresenterOps {
         void onDestroy(boolean isChangingConfiguration);
         void setView(MVP_Lesson.RequiredViewOps view);
-        void NewActivity(String Text);
+       // void NewActivity(String Text);
         //Activity getActivity(int position);
-        int getActivitesCount();
-        void Empty();
+        //int getActivitesCount();
+        //void Empty();
     }
 
     interface RequiredPresenterOps {
@@ -28,7 +27,7 @@ public interface MVP_Lesson {
     interface ProvidedModelOps {
         void onDestroy(boolean isChangingConfiguration);
         boolean loadData();
-        boolean insertActivity(String fun);
+        //boolean insertActivity(String fun);
         //Activity getActivity(int position);
         int getActivitesCount();
         boolean deleteALLActivity();

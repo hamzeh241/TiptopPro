@@ -69,7 +69,7 @@ public class Function_Presenter
     }
 
     /*@Override
-    public void NewFunction(final String[][] F, final ViewPager mViewPager, final CardPagerAdapter mCardAdapter, final ShadowTransformer mCardShadowTransformer, final Context _ctx, final MVP_Function.ProvidedPresenterOps mPresenter) {
+    public void NewFunction(final String[][] F, final ViewPager mViewPager, final CardPagerAdapter_L mCardAdapter, final ShadowTransformer mCardShadowTransformer, final Context _ctx, final MVP_Function.ProvidedPresenterOps mPresenter) {
         mModel.insertFunction(F, mViewPager, mCardAdapter,  mCardShadowTransformer, _ctx, mPresenter);
 //        new AsyncTask<Void, Void, Boolean>() {
 //            @Override

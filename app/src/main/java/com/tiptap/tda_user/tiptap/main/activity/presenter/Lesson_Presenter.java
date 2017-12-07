@@ -53,8 +53,8 @@ public class Lesson_Presenter
                 @Override
                 protected void onPostExecute(Boolean result) {
                     try {
-                        if (!result) // Loading error
-                            getView().showToast(makeToast("Error loading data."));
+                        //if (!result) // Loading error
+                            //getView().showToast(makeToast("Error loading data."));
                         //else // success
                         //getView().notifyDataSetChanged();
                     } catch (NullPointerException e) {
@@ -66,38 +66,38 @@ public class Lesson_Presenter
             e.printStackTrace();
         }
     }
-
-    @Override
-    public void NewActivity(final String Text) {
-        if ( Text != "" ) {
-            new AsyncTask<Void, Void, Boolean>() {
-                @Override
-                protected Boolean doInBackground(Void... params) {
-                    // Insert note in Language_Model, returning result
-                    return mModel.insertActivity(Text);
-                }
-
-                @Override
-                protected void onPostExecute(Boolean result) {
-                    try {
-                        if (result) {
-                           // getView().notifyDataSetChanged();
-                        } else {
-                            getView().showToast(makeToast("Error creating note"));
-                        }
-                    } catch (NullPointerException e) {
-                        e.printStackTrace();
-                    }
-                }
-            }.execute();
-        } else {
-            try {
-                getView().showToast(makeToast("Cannot add a blank note!"));
-            } catch (NullPointerException e) {
-                e.printStackTrace();
-            }
-        }
-    }
+//
+//    @Override
+//    public void NewActivity(final String Text) {
+//        if ( Text != "" ) {
+//            new AsyncTask<Void, Void, Boolean>() {
+//                @Override
+//                protected Boolean doInBackground(Void... params) {
+//                    // Insert note in Language_Model, returning result
+//                    return mModel.insertActivity(Text);
+//                }
+//
+//                @Override
+//                protected void onPostExecute(Boolean result) {
+//                    try {
+//                        if (result) {
+//                           // getView().notifyDataSetChanged();
+//                        } else {
+//                            getView().showToast(makeToast("Error creating note"));
+//                        }
+//                    } catch (NullPointerException e) {
+//                        e.printStackTrace();
+//                    }
+//                }
+//            }.execute();
+//        } else {
+//            try {
+//                getView().showToast(makeToast("Cannot add a blank note!"));
+//            } catch (NullPointerException e) {
+//                e.printStackTrace();
+//            }
+//        }
+//    }
 
     public void Empty(){
         mModel.deleteALLActivity();
@@ -106,11 +106,11 @@ public class Lesson_Presenter
     private Toast makeToast(String msg) {
         return Toast.makeText(getView().getAppContext(), msg, Toast.LENGTH_SHORT);
     }
-
-    @Override
-    public int getActivitesCount() {
-        return mModel.getActivitesCount();
-    }
+//
+//    @Override
+//    public int getActivitesCount() {
+//        return mModel.getActivitesCount();
+//    }
 
    /* @Override
     public Activity getActivity(int position) {

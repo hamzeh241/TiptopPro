@@ -4,7 +4,7 @@ import com.tiptap.tda_user.tiptap.MVP_Lesson;
 import com.tiptap.tda_user.tiptap.di.scope.ActivityScope;
 import com.tiptap.tda_user.tiptap.main.activity.model.Lesson_Model;
 import com.tiptap.tda_user.tiptap.main.activity.presenter.Lesson_Presenter;
-import com.tiptap.tda_user.tiptap.main.activity.view.lesson.Lesson;
+import com.tiptap.tda_user.tiptap.main.activity.view.function_lesson.Lesson;
 
 import dagger.Module;
 import dagger.Provides;

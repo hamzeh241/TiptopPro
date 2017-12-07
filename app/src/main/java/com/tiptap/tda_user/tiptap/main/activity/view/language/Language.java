@@ -13,8 +13,7 @@ import com.tiptap.tda_user.tiptap.MVP_Language;
 import com.tiptap.tda_user.tiptap.R;
 import com.tiptap.tda_user.tiptap.common.StateMaintainer;
 import com.tiptap.tda_user.tiptap.main.activity.presenter.Language_Presenter;
-import com.tiptap.tda_user.tiptap.main.activity.view.activity.Act_1;
-import com.tiptap.tda_user.tiptap.main.activity.view.function.Function;
+import com.tiptap.tda_user.tiptap.main.activity.view.function_lesson.Function;
 import javax.inject.Inject;
 
 public class Language

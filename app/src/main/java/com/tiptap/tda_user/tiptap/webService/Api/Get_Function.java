@@ -4,15 +4,14 @@ import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.support.v4.view.ViewPager;
-import android.widget.Toast;
 import com.android.volley.Request;
 import com.android.volley.Response;
 import com.android.volley.TimeoutError;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonArrayRequest;
 import com.tiptap.tda_user.tiptap.common.SampleApp;
-import com.tiptap.tda_user.tiptap.main.activity.view.function.CardPagerAdapter;
-import com.tiptap.tda_user.tiptap.main.activity.view.function.ShadowTransformer;
+import com.tiptap.tda_user.tiptap.main.activity.view.function_lesson.CardPagerAdapter_F;
+import com.tiptap.tda_user.tiptap.main.activity.view.function_lesson.ShadowTransformer;
 import com.tiptap.tda_user.tiptap.webService.Cls.Set_Function;
 import com.tiptap.tda_user.tiptap.webService.DB.BaseSetingApi;
 import com.tiptap.tda_user.tiptap.webService.DB.ErrorVolley;
@@ -30,12 +29,12 @@ public class Get_Function extends BaseSetingApi {
     Context context;
     Activity mactivity;
     ViewPager mViewPager;
-    CardPagerAdapter mCardAdapter;
+    CardPagerAdapter_F mCardAdapter;
     ShadowTransformer mCardShadowTransformer;
     boolean mnet;
     ProgressDialog progressDialog;
 
-    public Get_Function(boolean net, Context conContext, Activity activity, ViewPager viewPager, CardPagerAdapter cardAdapter, ShadowTransformer shadowTransformer) {
+    public Get_Function(boolean net, Context conContext, Activity activity, ViewPager viewPager, CardPagerAdapter_F cardAdapter, ShadowTransformer shadowTransformer) {
         context = conContext;
         iFunction = new Service_Function(context);
         mactivity = activity;
@@ -52,7 +51,7 @@ public class Get_Function extends BaseSetingApi {
             progressDialog.setMessage("در حال دریافت اطلاعات از سرور ...");
             progressDialog.show();
             JsonArrayRequest jsonObjReq = new JsonArrayRequest(Request.Method.GET,
-                    url+ "Function?rowVersion=0x0", null, new Response.Listener<JSONArray>() {
+                    url+ "Function?rowVersion="+iFunction.getMaxRowV_Function(), null, new Response.Listener<JSONArray>() {
 
                 @Override
                 public void onResponse(JSONArray response) {

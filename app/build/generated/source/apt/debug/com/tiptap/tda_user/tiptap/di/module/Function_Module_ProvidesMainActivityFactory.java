@@ -1,6 +1,6 @@
 package com.tiptap.tda_user.tiptap.di.module;
 
-import com.tiptap.tda_user.tiptap.main.activity.view.function.Function;
+import com.tiptap.tda_user.tiptap.main.activity.view.function_lesson.Function;
 import dagger.internal.Factory;
 import dagger.internal.Preconditions;
 import javax.annotation.Generated;

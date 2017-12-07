@@ -20,7 +20,21 @@ public class Service_Function implements IFunction {
         context=_conContext;
         dbAdapter=new DBAdapter(context);
         FList = new ArrayList<>();
+    }
 
+    @Override
+    public String getMaxRowV_Function() {
+        String q="SELECT MAX(RowVersion) as RowVersion FROM TbFunction";
+        Cursor cursor=dbAdapter.ExecuteQ(q);
+        int count=cursor.getCount();
+        cursor.moveToFirst();
+        String id="0x0";
+        for (int i = 0; i < count; i++) {
+            id=cursor.getString(0);
+        }
+        if(null==id)
+            id="0x0";
+        return id;
     }
 
     @Override
@@ -63,28 +77,16 @@ public class Service_Function implements IFunction {
             cursor.moveToFirst();
             for (int i = 0; i < count; i++) {
                 TbFunction app = new TbFunction();
+                app.set_id(Integer.parseInt(cursor.getString(0)));
                 app.setTitle(cursor.getString(1));
                 app.setRowVersion(cursor.getString(2));
                 FList.add(app);
                 cursor.moveToNext();
-            }}
-        catch (Exception ex)
-        {
+            }
+        }
+        catch (Exception ex) {
             new PostError(context,ex.getMessage(),getMethodName()).postError();
-
         }
         return FList;
-    }
-
-    public String GetMaxRowV() {
-        String q = "SELECT [RowVersion] FROM TbFunction ORDER BY RowVersion DESC LIMIT 1";
-        Cursor cursor = dbAdapter.ExecuteQ(q);
-        int count = cursor.getCount();
-        cursor.moveToFirst();
-        String id = "0x0";
-        for (int i = 0; i < count; i++) {
-            id = cursor.getString(0);
-        }
-        return id;
     }
 }
